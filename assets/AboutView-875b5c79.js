@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o,a as s}from"./index-6fa89d4a.js";const a={data(){return{}},mounted(){}},n={class:"about container"},c=s("h1",null,"This is an about page",-1),r=[c];function _(i,d,u,p,l,f){return e(),o("div",n,r)}const m=t(a,[["render",_]]);export{m as default};
