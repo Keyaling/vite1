@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as t}from"./index-85180728.js";const n={},o={class:"container text-center"};function r(s,_){return c(),t("div",o," 這是後台產品列表頁面 ")}const d=e(n,[["render",r]]);export{d as default};
