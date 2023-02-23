@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="container text-center">
     這是購物車頁面
     <div class="text-end">
                 <button class="btn btn-outline-danger" @click="deleteAllCarts()" type="button">清空購物車</button>

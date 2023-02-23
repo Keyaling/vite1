@@ -1,6 +1,6 @@
 <template>
-<div class="container d-flex flex-column">
-    <h2>這是登入畫面</h2>
+<div class="container d-flex flex-column text-center">
+    <h6>這是登入畫面</h6>
         <form id="form" class="form-signin col-6 m-auto" @submit.prevent="login">
         <!-- 在form上加入v-on事件，就不一定要按下送出表單的按鈕，才能傳送資料，按下enter案件也可傳送表單 -->
             <div class="form-floating mb-3">

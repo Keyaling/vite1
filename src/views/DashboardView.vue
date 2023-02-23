@@ -1,6 +1,7 @@
 <template>
-<div class="container d-flex justify-content-center p-3">
-    這是後台頁面
+<div class="container p-3 mx-auto text-center" >
+    <h2>這是後台頁面</h2>
+    <div></div>
     <RouterLink to="/admin/products">後臺產品列表</RouterLink>|
     <RouterLink to="/admin/orders">後臺訂單列表</RouterLink>|
     <RouterLink to="/">回前台頁面</RouterLink>|

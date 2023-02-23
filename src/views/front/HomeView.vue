@@ -1,5 +1,5 @@
 <template>
-<div class="container">
+<div class="container text-center">
   這是首頁
 </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-<div class="container">
+<div class="container text-center">
     <h1>這是單一產品頁面</h1>
     <h2>{{ product.title }}</h2>
     <img :src="product.imageUrl" class="img-fluid" alt="">
